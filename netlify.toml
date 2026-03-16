@@ -1,0 +1,3 @@
+
+  functions = "netlify/functions"
+  publish = "public"  # Create empty public folder if needed
